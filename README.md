@@ -32,8 +32,12 @@ It detects suspicious behavior such as:
 ---
 
 ## 📂 Project Structure
+
+
 │── webcamp.py
+
 │── README.md
+
 │── requirements.txt
 
 ---
